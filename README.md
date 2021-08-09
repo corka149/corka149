@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate CLI and web developer from Earth</h3>
+<h3 align="center">A passionate CLI and web developer from Earth - founder of pytogo - member of PSF </h3>
 
 - 🔭 I’m currently working on [portforward](https://github.com/pytogo/portforward)
 
