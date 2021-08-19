@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I enjoy driving motor scooter**
 
+- 🖥 Shell: zsh (oh-my-zsh theme: bureau)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/corka149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="corka149" height="30" width="40" /></a>
