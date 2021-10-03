@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **corka149@mailbox.org**
 
-- ⚡ Fun fact **I live next to mob of deers. 🦌**
+- ⚡ Fun fact **I live next to a mob of deers. 🦌**
 
 - 🖥 Shell: zsh (oh-my-zsh theme: bureau)
 
