@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate CLI and web developer from Earth - founder of pytogo - member of PSF </h3>
+<h3 align="center">A passionate CLI and web developer from Earth - founder of pytogo - member of PSF and ERLEF</h3>
 
-- 🔭 I’m currently working on [portforward](https://github.com/pytogo/portforward)
+- 🔭 I’m currently working on [protocoler](https://github.com/corka149/protocoler)
 
-- 🌱 I’m currently learning **Python C Extensions**
-
-- 🤝 I’m looking for help with [portforward and pytogo in general](https://github.com/pytogo)
-
-- 💬 Ask me about **pytogo**
+- 🌱 I’m currently learning everything about OSs for my exam
 
 - 📫 How to reach me **corka149@mailbox.org**
 
-- ⚡ Fun fact **I enjoy driving motor scooter**
+- ⚡ Fun fact **I live next to mob of deers. 🦌**
 
 - 🖥 Shell: zsh (oh-my-zsh theme: bureau)
 
