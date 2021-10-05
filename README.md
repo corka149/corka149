@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate CLI and web developer from Earth - founder of pytogo - member of PSF and ERLEF</h3>
 
-- 🔭 I’m currently working on [protocoler](https://github.com/corka149/protocoler)
+- 🔭 I’m currently working on [protocoler](https://github.com/corka149/protocoler) and [pytogo](https://github.com/pytogo)
 
 - 🌱 I’m currently learning everything about OSs for my exam
 
