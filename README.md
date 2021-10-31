@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate CLI and web developer from Earth - founder of pytogo - member of PSF and ERLEF</h3>
+<h3 align="center">A passionate CLI and web developer from Earth - member of PSF and ERLEF</h3>
 
-- 🔭 I’m currently working on [protocoler](https://github.com/corka149/protocoler) and [pytogo](https://github.com/pytogo)
+- 🔭 I’m currently working on [protocoler](https://github.com/corka149/protocoler) and [pond pump observer](https://github.com/corka149/pond_pump)
 
-- 🌱 I’m currently learning everything about OSs for my exam
+- 🌱 I’m currently learning [Nerves](https://www.nerves-project.org/) and building CLIs with [burrito](https://github.com/burrito-elixir/burrito)
 
 - 📫 How to reach me **corka149@mailbox.org**
 
