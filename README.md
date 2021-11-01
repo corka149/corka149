@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [protocoler](https://github.com/corka149/protocoler) and [pond pump observer](https://github.com/corka149/pond_pump)
 
-- 🌱 I’m currently learning [Nerves](https://www.nerves-project.org/) and building CLIs with [burrito](https://github.com/burrito-elixir/burrito)
+- 🌱 I’m currently learning ... tbd
 
 - 📫 How to reach me **corka149@mailbox.org**
 
