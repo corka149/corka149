@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate CLI and web developer from Earth - member of PSF and ERLEF</h3>
 
-- 🔭 I’m currently working on ... nothing big currently
+- 🔭 I’m currently working on the architecture of [jARVIS](https://github.com/corka149/jarvis)
 
 - 🌱 I’m currently learning *data and schema migration from relational databases to NoSQL databases*
 
