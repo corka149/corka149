@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the architecture of [jARVIS](https://github.com/corka149/jarvis)
 
-- 🌱 I’m currently learning *data and schema migration from relational databases to NoSQL databases*
+- 🌱 I’m currently learning *React native*
 
 - 📫 How to reach me **corka149@mailbox.org**
 
