@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate CLI and web developer from Earth - member of PSF and ERLEF</h3>
 
-- 🔭 I’m currently working on the architecture of [jARVIS](https://github.com/corka149/jarvis)
+- 🔭 I’m currently working on a mobile app for [jARVIS](https://github.com/corka149/jarvis) called [edith3](https://github.com/corka149/edith3)
 
 - 🌱 I’m currently learning *React native*
 
