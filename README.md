@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate CLI and web developer from Earth - member of PSF and ERLEF</h3>
+<h3 align="center">A passionate CLI and web developer from Earth</h3>
 
-- 🔭 I’m currently working on a mobile app for [jARVIS](https://github.com/corka149/jarvis) called [edith3](https://github.com/corka149/edith3)
+- 🔭 I’m currently working on a TUI app called [protocoler](https://github.com/corka149/protocoler)
 
-- 🌱 I’m currently learning *React native*
+- 🌱 I’m currently learning [cursive](https://github.com/gyscos/cursive)
 
 - 📫 How to reach me **corka149@mailbox.org**
 
