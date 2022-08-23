@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate CLI and web developer from Earth</h3>
 
-- 🔭 I’m currently working on a TUI app called [protocoler](https://github.com/corka149/protocoler)
+- 🔭 I’m currently working on separating [jARVIS](https://github.com/corka149/jarvis) in a backend and a SPA
 
-- 🌱 I’m currently learning [cursive](https://github.com/gyscos/cursive)
+- 🌱 I’m currently learning [Spring Reactive](https://spring.io/reactive)
 
 - 📫 How to reach me **corka149@mailbox.org**
 
