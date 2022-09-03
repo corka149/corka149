@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on separating [jARVIS](https://github.com/corka149/jarvis) in a backend and a SPA
 
-- 🌱 I’m currently learning [Spring Reactive](https://spring.io/reactive)
+- 🌱 I’m currently learning -TBD-
 
 - 📫 How to reach me **corka149@mailbox.org**
 
