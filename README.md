@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on separating [jARVIS](https://github.com/corka149/jarvis) in a backend and a SPA
 
-- 🌱 I’m currently learning more about Rust.
+- 🌱 I’m currently learning more about ... this and that ...
 
 - 📫 How to reach me **corka149@mailbox.org**
 
