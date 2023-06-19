@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate CLI and web developer from Earth</h3>
 
-- 🔭 I’m currently working on separating [jARVIS](https://github.com/corka149/jarvis) in a backend and a SPA
+- 🔭 I’m currently working on  ... this and that ...
 
 - 🌱 I’m currently learning more about ... this and that ...
 
