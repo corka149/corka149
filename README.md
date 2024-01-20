@@ -13,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fosstodon.org/deck/@corka149" target="blank"><img align="center" src="icons/logo-purple.svg" alt="corka149" height="30" width="40" /></a>
+ 
+<img align="center" src="icons/logo-purple.svg" alt="corka149" height="30" width="40" />
+<a rel="me" href="https://fosstodon.org/@corka149">Mastodon</a>
 
 </p>
 
