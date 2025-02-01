@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate CLI and web developer from Earth</h3>
 
-- 🔭 I’m currently working on  ... this and that ...
+- 🔭 I’m currently working on  building rental management platform.
 
 - 🌱 I’m currently learning more about ... this and that ...
 
 - 📫 How to reach me **corka149@mailbox.org**
-
-- ⚡ Fun fact **I live next to a mob of deers. 🦌**
-
-- 🖥 Shell: zsh (oh-my-zsh theme: bureau)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
